@@ -26,7 +26,6 @@ const imgDirectories:{fruits:string[],sports:string[],flags:string[],animals:str
         "/matching-game-images/fruits/peach.png",
         "/matching-game-images/fruits/pear.png",
         "/matching-game-images/fruits/persimmon.png",
-        "/matching-game-images/fruits/plum.png",
         "/matching-game-images/fruits/pomegranate.png",
         "/matching-game-images/fruits/raspberries.png",
         "/matching-game-images/fruits/salad.png",
